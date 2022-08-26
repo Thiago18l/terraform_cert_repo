@@ -1,2 +1,6 @@
 .vscode
 *.env
+*.terraform
+*.lock.hcl
+*.tfstate
+*.data
