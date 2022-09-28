@@ -8,7 +8,15 @@
 3. As informações são salvas em um DynamoDB;
 4. EC2 
 
+## Networking
 
+Todas as urnas devem se conectar ao servidor central via regra de IP utilizada na RFC1918.
+- 192.168.0.0/22
+As Availability zones que iremos utilizar são as 2a, 2b
+
+
+## Arquitetura
+O programa que contara com uma arquitetura serveless que vai integrar a comunicação junto do DynamoDB.
 
 ### Qual problema queremos resolver?
 
