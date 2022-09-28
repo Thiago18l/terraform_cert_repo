@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-28T00:05:37.722Z" agent="5.0 (X11)" etag="9HlBf8PGGSgFst17iwOB" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-28T00:19:19.179Z" agent="5.0 (X11)" etag="LBV9Hqzztg5O7uKqSJbM" version="20.3.7" type="github">
   <diagram id="D6l-RDttAgyImERmwzsS" name="Página-1">
     <mxGraphModel dx="2249" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,10 +16,10 @@
         <mxCell id="tXADfnEGD0PWnMl-AIlE-9" value="us-east-2b" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_availability_zone;strokeColor=#545B64;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#545B64;dashed=1;" parent="tXADfnEGD0PWnMl-AIlE-7" vertex="1">
           <mxGeometry x="330" y="210" width="350" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="tXADfnEGD0PWnMl-AIlE-10" value="BFF" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.lambda;" parent="tXADfnEGD0PWnMl-AIlE-7" vertex="1">
+        <mxCell id="tXADfnEGD0PWnMl-AIlE-10" value="Serveless" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.lambda;" parent="tXADfnEGD0PWnMl-AIlE-7" vertex="1">
           <mxGeometry x="420" y="80" width="60" height="82.5" as="geometry" />
         </mxCell>
-        <mxCell id="tXADfnEGD0PWnMl-AIlE-11" value="BFF" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.lambda;" parent="tXADfnEGD0PWnMl-AIlE-7" vertex="1">
+        <mxCell id="tXADfnEGD0PWnMl-AIlE-11" value="Serveless" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.lambda;" parent="tXADfnEGD0PWnMl-AIlE-7" vertex="1">
           <mxGeometry x="420" y="248.75" width="60" height="82.5" as="geometry" />
         </mxCell>
         <mxCell id="tXADfnEGD0PWnMl-AIlE-12" value="Dynamo" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.dynamodb;" parent="tXADfnEGD0PWnMl-AIlE-7" vertex="1">
